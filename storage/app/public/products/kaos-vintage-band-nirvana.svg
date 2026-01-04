@@ -1,0 +1,17 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad17" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6C5CE7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2D3436;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#grad17)"/>
+  <rect x="20" y="20" width="260" height="260" fill="#ffffff" opacity="0.9" rx="10"/>
+  <text x="150" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Kaos Vintage</text>
+  <text x="150" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333">Band Nirvana</text>
+  <text x="150" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#666">Nirvana - Size L</text>
+  <text x="150" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#999">Bekas Bagus</text>
+  <circle cx="150" cy="185" r="40" fill="#6C5CE7" opacity="0.7"/>
+  <text x="150" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#fff">👕</text>
+  <text x="150" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#6C5CE7">Rp 125,000</text>
+</svg>
